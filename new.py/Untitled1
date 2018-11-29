@@ -1,0 +1,8 @@
+## CSP 2 - inputageTL
+## Tobias Lopez
+
+name = input("what is your name?: ")
+age = int(input("how old are you ?"))
+year = str((2018 - age)+100)
+
+print(name+ "wil be 100 years old in the year. " + year) 
